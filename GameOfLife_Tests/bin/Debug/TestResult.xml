@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\ConwayGameOfLife\GameOfLife_Tests\bin\Debug\GameOfLife_Tests.exe" total="6" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-06-14" time="18:32:08">
+  <environment nunit-version="2.5.10.11092" clr-version="4.0.30319.18034" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\ConwayGameOfLife\GameOfLife_Tests\bin\Debug" machine-name="HP_NBL" user="Nibbler" user-domain="HP_NBL" />
+  <culture-info current-culture="es-ES" current-uiculture="es-ES" />
+  <test-suite type="Assembly" name="C:\Users\Nibbler\Documents\Visual Studio 2010\Projects\ConwayGameOfLife\GameOfLife_Tests\bin\Debug\GameOfLife_Tests.exe" executed="True" result="Success" success="True" time="0.137" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="GameOfLife_Tests" executed="True" result="Success" success="True" time="0.132" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TestFixture1" executed="True" result="Success" success="True" time="0.131" asserts="0">
+            <results>
+              <test-case name="GameOfLife_Tests.TestFixture1.Test_Cambiar_Estado_Celula" executed="True" result="Success" success="True" time="0.083" asserts="4" />
+              <test-case name="GameOfLife_Tests.TestFixture1.Test_ComprobarSiguienteGeneration" executed="True" result="Success" success="True" time="0.009" asserts="0" />
+              <test-case name="GameOfLife_Tests.TestFixture1.Test_ComprobarVecinos" executed="True" result="Success" success="True" time="0.007" asserts="1" />
+              <test-case name="GameOfLife_Tests.TestFixture1.Test_CopiarGrid" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="GameOfLife_Tests.TestFixture1.Test_Definir_CelulaViva_CelulaMuerta" executed="True" result="Success" success="True" time="0.002" asserts="4" />
+              <test-case name="GameOfLife_Tests.TestFixture1.Test_PintarGrid" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
